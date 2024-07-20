@@ -28,8 +28,24 @@
 
 <p align="Center"><img src="https://www.codedex.io/_next/image?url=%2Fimages%2Fgirl.gif&w=128&q=75"/></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=F78EE1&repeat=false&width=565&height=80&lines=Languages%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=F78EE1&repeat=false&random=false&width=435&lines=My+Tech+Stack%3A)](https://git.io/typing-svg)
+| HTML | Python | R | C++ | SQL |
+|:-:|:-:|:-:|:-:|:-:|
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev) | <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width= "40" height= "40"/>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=F78EE1&repeat=false&width=565&height=80&lines=Libraries+%26+Frameworks%3A)](https://git.io/typing-svg)
+
+| TensorFlow | NumPy | Pandas | Scikit-learn |
+|:-:|:-:|:-:|:-:|
+|[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | [![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) |
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=F78EE1&repeat=false&width=565&height=80&lines=Other+Tools%3A)](https://git.io/typing-svg)
+
+| PostgreSQL | Git | Github | Visual Studio Code | Anaconda | MySQL | PyCharm | Windows | Apple |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) |
 
 Data Visualization: `Power BI` `Tableau`
 
