@@ -46,16 +46,3 @@
 | PostgreSQL | Git | Github | Visual Studio Code | Anaconda | MySQL | PyCharm | Windows | Apple |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) |
-
-Data Visualization: `Power BI` `Tableau`
-
-Web Development: `HTML` `Javascript`
-
-Game Development: `C++`
-
-Version Control: `Git` `Github`
-
-Databases: `Microsoft SQL Server` `MySQL` `PostgreSQL`
-
-Others: `Scikit-learn` `NumPy`
-
