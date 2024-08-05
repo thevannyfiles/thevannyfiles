@@ -6,13 +6,12 @@
 
 ---
 <h3 align="center" colour="pink">Student at Western Governors University</h3>    
-<p align="center">I'm a 29-year-old currently pursuing a Bachelor's degree in Computer Science at Western Governors University in Atlanta. With previous degrees under my belt, I'm now set on pivoting my career towards the intersection of technology and healthcare. My goal is to leverage my analytical mindset and newfound skills in computer science to make meaningful contributions to the tech side of healthcare. </p>
+<p align="center">I'm currently pursuing a Bachelor's degree in Computer Science at Western Governors University with the goal of transitioning into health tech as a data scientist. My background in data analysis and business analytics, combined with my passion for healthcare, drives my ambition to leverage technology to improve healthcare outcomes.</p>
 
 <p align="Center"><img src="https://komarev.com/ghpvc/?username=thevannyfiles&label=Visitors&color=F78EE1&style=plastic" alt="Profile visitor" />
 </p>
 
 - Currently working on building a To-do App with Python.
-- Currently learning C++ & Web Development  (HTML, CSS, JavaScript, Three.js / A-frame)
 - Reach out to me at vookosun@gmail.com or via my [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
 
   
@@ -24,7 +23,6 @@
 -   WGU'S Women in Technology Member
 -   Event Cooridinator of WGU WinTech
 -   Codédex Hackathon participant
--   Stacked Up Summit by ColorStack
 
 ---
 
