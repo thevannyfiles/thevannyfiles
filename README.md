@@ -6,13 +6,16 @@
 
 ---
 <h3 align="center" colour="pink">Student at Western Governors University</h3>    
-<p align="center">I'm currently pursuing a Bachelor's degree in Computer Science at Western Governors University with the goal of transitioning into health tech as a data scientist. My background in data analysis and business analytics, combined with my passion for healthcare, drives my ambition to leverage technology to improve healthcare outcomes.</p>
+<p align="center">Pursuing a Bachelor's degree in Computer Science with an accelerated pathway in Data Science and Machine Learning Engineering. My goal is to transition into **health tech** as a **data scientist**, leveraging technology to improve healthcare outcomes.</p>
+
+<p align="center">I began my career in **medical communications** , managing projects and working closely with pharmaceutical clients. Through these experiences, I saw the power of **data-driven insights** in healthcare decision-making, inspiring me to deepen my technical expertise and pivot into data science.
+</p>
 
 <p align="Center"><img src="https://komarev.com/ghpvc/?username=thevannyfiles&label=Visitors&color=F78EE1&style=plastic" alt="Profile visitor" />
 </p>
 
-- Currently working on building a To-do App with Python.
-- Reach out to me at vookosun@gmail.com or via my [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
+- **Studying for my LPI Linux Certification** to deepen my expertise in Linux systems and DevOps fundamentals.  
+- Expanding my knowledge in **machine learning**, **deep learning**, and advanced data analysis.- Reach out to me at vookosun@gmail.com or via my [LinkedIn](https://www.linkedin.com/in/vanessaokosun/).
 
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=She+believed+she+could,+so+she+coded&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
