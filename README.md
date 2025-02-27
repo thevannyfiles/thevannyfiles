@@ -6,9 +6,9 @@
 
 ---
 <h3 align="center" colour="pink">Student at Western Governors University</h3>    
-<p align="center">Pursuing a Bachelor's degree in Computer Science with an accelerated pathway in Data Science and Machine Learning Engineering. My goal is to transition into **health tech** as a **data scientist**, leveraging technology to improve healthcare outcomes.</p>
+<p>Pursuing a Bachelor's degree in Computer Science with an accelerated pathway in Data Science and Machine Learning Engineering. My goal is to transition into <b>health tech</b> as a <b>data scientist</b>, leveraging technology to improve healthcare outcomes.</p>
 
-<p align="center">I began my career in **medical communications** , managing projects and working closely with pharmaceutical clients. Through these experiences, I saw the power of **data-driven insights** in healthcare decision-making, inspiring me to deepen my technical expertise and pivot into data science.
+<p>I began my career in <b>medical communications</b> , managing projects and working closely with pharmaceutical clients. Through these experiences, I saw the power of <b>data-driven insights</b> in healthcare decision-making, inspiring me to deepen my technical expertise and pivot into data science.
 </p>
 
 <p align="Center"><img src="https://komarev.com/ghpvc/?username=thevannyfiles&label=Visitors&color=F78EE1&style=plastic" alt="Profile visitor" />
