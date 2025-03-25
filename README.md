@@ -65,6 +65,6 @@ Previously, I worked in **medical communications**, managing pharmaceutical camp
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=thevannyfiles&label=Profile+Views&color=F78EE1&style=plastic)
 
-[![Quote](https://quotes-github-readme.vercel.app/api?quote=She+believed+she+could,+so+she+coded&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?quote=Debugging+in+lipgloss+and+sweats+💋&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
