@@ -7,7 +7,6 @@
   <br><br>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F78EE1&center=true&vCenter=true&width=500&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Vanessa+Okosun;Blending+AI+%2B+BI+for+Smarter+Insights)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -15,22 +14,34 @@
 ## 👩🏽‍🎓 About Me
 I'm a Computer Science student at **Western Governors University**, specializing in **AI and Machine Learning** with a growing emphasis on **Business Intelligence and Data Strategy**.
 
-My goal is to **bridge predictive modeling and business insight**, helping organizations make smarter decisions through visual storytelling and machine-enhanced dashboards—especially in the **healthcare, SaaS, and impact-driven tech** spaces.
+I’m passionate about transforming how people interact with data—through design-forward dashboards, predictive modeling, and now even app development. I’m currently building a relationship-focused wellness app that blends emotional intelligence with playful, human-first tech.
 
-Before pivoting into tech, I worked in **medical communications**, managing pharmaceutical projects and collaborating across editorial, compliance, and creative teams. Now, I'm channeling that cross-functional experience into my work in **data science and BI**, building solutions that are not just smart—but human-centered.
+Before pivoting into tech, I worked in **medical communications**, managing pharmaceutical projects across cross-functional teams. Now, I use that experience to build solutions that are both data-informed and people-centered.
 
 ---
 
 ## 🧠 Current Focus
-- Blending **AI/ML with Business Intelligence**  
-- Designing **healthcare dashboards** and predictive models  
-- Telling stories through **Power BI, Tableau, and Python**  
-- Building scalable solutions in the cloud (**AWS ML Specialty – in progress**)
+- Integrating **AI/ML into BI tools**
+- Designing interactive dashboards & pipelines in healthcare and SaaS
+- Exploring cloud-based scalability (AWS ML Specialty – in progress)
+- Learning through building: solo-developing a cross-platform wellness app
 
 📚 **Current Courses:**  
 `Calculus I (C958)` – Strengthening math for ML  
-`Fundamentals of Information Security (D430)` – Understanding data privacy  
-`Java Fundamentals (D286)` – Learning core software development
+`Java Fundamentals (D286)` – Introduction to object-oriented programming in the Java language
+
+---
+
+## 🧾 Certifications
+- 🎓 **Thinkful Data Analytics Bootcamp**
+- 📜 **LPI Linux Essentials**
+- 🧠 *ITIL 4 Foundation Certified*
+
+---
+
+## 🎧 Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app)
 
 ---
 
